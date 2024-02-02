@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/marquesdeard/web-app/pkg/config"
-	"github.com/marquesdeard/web-app/pkg/handlers"
-	"github.com/marquesdeard/web-app/pkg/render"
+	"github.com/marquesdeard/go-web-app/pkg/config"
+	"github.com/marquesdeard/go-web-app/pkg/handlers"
+	"github.com/marquesdeard/go-web-app/pkg/render"
 )
 
 var port = ":8080"

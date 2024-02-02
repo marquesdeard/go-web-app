@@ -3,9 +3,9 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/marquesdeard/web-app/pkg/config"
-	"github.com/marquesdeard/web-app/pkg/models"
-	"github.com/marquesdeard/web-app/pkg/render"
+	"github.com/marquesdeard/go-web-app/pkg/config"
+	"github.com/marquesdeard/go-web-app/pkg/models"
+	"github.com/marquesdeard/go-web-app/pkg/render"
 )
 
 // Repo the repository used by the handlers

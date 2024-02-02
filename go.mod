@@ -1,4 +1,4 @@
-module github.com/marquesdeard/web-app
+module github.com/marquesdeard/go-web-app
 
 go 1.21.3
 
